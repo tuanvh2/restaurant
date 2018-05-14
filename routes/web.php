@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('master');
 });
+
+Route::get('/admin', function() {
+	return view('backend.pages.index');
+});
