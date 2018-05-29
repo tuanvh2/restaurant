@@ -1,4 +1,4 @@
-@extends('backend.pages.index')
+@extends('backend.master')
 @section('content')
 <div class="container-fluid">
     <div class="row">
