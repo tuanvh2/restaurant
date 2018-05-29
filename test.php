@@ -9,4 +9,9 @@ class ClassName extends AnotherClass
 	{
 		# code...
 	}
+	function task03()
+	{
+		echo 'this is task03';
+		echo 'this is 3';
+	}
 }
